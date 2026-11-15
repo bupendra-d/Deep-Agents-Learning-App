@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+deepagents
+langgraph
+langchain-groq
+langchain-core
+tavily-python
+
