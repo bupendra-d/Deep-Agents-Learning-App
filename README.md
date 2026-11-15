@@ -6,7 +6,7 @@ The application supports conversational interactions, web search, project-specif
 
 ## Live Demo
 
-[Try Deep Agents Learning App](YOUR_STREAMLIT_CLOUD_LINK)
+[Try Deep Agents Learning App](https://deep-agents-learning-app-huw8qu5lygbhpwvunsnys4.streamlit.app/)
 
 ## Features
 
